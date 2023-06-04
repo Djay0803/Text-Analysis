@@ -6,7 +6,7 @@ In this project, our objective is to extract data from the URLs specified in the
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages.
 
 ```bash
 pip install pandas
@@ -15,5 +15,4 @@ pip install textblob
 pip install requests
 pip install nltk
 pip install openpyxl
-```
-    
+```   
